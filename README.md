@@ -1,4 +1,4 @@
-# BaruchAdvCPP
+# Advanced C++ and Modern Designs
 Final Project of the QuantNet/Baruch Pre-MFE Advanced CPP course (Advanced C++ and Modern Designs)
 
 # 🚀 Monte Carlo Option Pricing Simulation
